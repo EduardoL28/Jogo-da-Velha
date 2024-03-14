@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+body {
+    background-color: #000000;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 1200'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='0' y2='100%25' gradientTransform='rotate(360,683,320)' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%23005f00'/%3E%3Cstop offset='0.02' stop-color='%23000000'/%3E%3Cstop offset='0.02' stop-color='%23008800'/%3E%3Cstop offset='0.032' stop-color='%23000000'/%3E%3Cstop offset='0.032' stop-color='%23004400'/%3E%3Cstop offset='0.056' stop-color='%23000000'/%3E%3Cstop offset='0.056' stop-color='%23004d00'/%3E%3Cstop offset='0.07' stop-color='%23000000'/%3E%3Cstop offset='0.07' stop-color='%23008d00'/%3E%3Cstop offset='0.1' stop-color='%23000000'/%3E%3Cstop offset='0.1' stop-color='%23002f00'/%3E%3Cstop offset='0.126' stop-color='%23000000'/%3E%3Cstop offset='0.126' stop-color='%23003b00'/%3E%3Cstop offset='0.142' stop-color='%23000000'/%3E%3Cstop offset='0.142' stop-color='%23006600'/%3E%3Cstop offset='0.159' stop-color='%23000000'/%3E%3Cstop offset='0.159' stop-color='%23004c00'/%3E%3Cstop offset='0.17' stop-color='%23000000'/%3E%3Cstop offset='0.17' stop-color='%23007800'/%3E%3Cstop offset='0.197' stop-color='%23000000'/%3E%3Cstop offset='0.197' stop-color='%23003700'/%3E%3Cstop offset='0.218' stop-color='%23000000'/%3E%3Cstop offset='0.218' stop-color='%23005a00'/%3E%3Cstop offset='0.239' stop-color='%23000000'/%3E%3Cstop offset='0.239' stop-color='%2300b600'/%3E%3Cstop offset='0.254' stop-color='%23000000'/%3E%3Cstop offset='0.254' stop-color='%23004300'/%3E%3Cstop offset='0.283' stop-color='%23000000'/%3E%3Cstop offset='0.283' stop-color='%23006c00'/%3E%3Cstop offset='0.294' stop-color='%23000000'/%3E%3Cstop offset='0.294' stop-color='%23007700'/%3E%3Cstop offset='0.305' stop-color='%23000000'/%3E%3Cstop offset='0.305' stop-color='%23002c00'/%3E%3Cstop offset='0.332' stop-color='%23000000'/%3E%3Cstop offset='0.332' stop-color='%2300a900'/%3E%3Cstop offset='0.346' stop-color='%23000000'/%3E%3Cstop offset='0.346' stop-color='%23004700'/%3E%3Cstop offset='0.362' stop-color='%23000000'/%3E%3Cstop offset='0.362' stop-color='%23005300'/%3E%3Cstop offset='0.381' stop-color='%23000000'/%3E%3Cstop offset='0.381' stop-color='%23006600'/%3E%3Cstop offset='0.415' stop-color='%23000000'/%3E%3Cstop offset='0.415' stop-color='%23001000'/%3E%3Cstop offset='0.428' stop-color='%23000000'/%3E%3Cstop offset='0.428' stop-color='%2300a900'/%3E%3Cstop offset='0.442' stop-color='%23000000'/%3E%3Cstop offset='0.442' stop-color='%23006100'/%3E%3Cstop offset='0.456' stop-color='%23000000'/%3E%3Cstop offset='0.456' stop-color='%23009100'/%3E%3Cstop offset='0.498' stop-color='%23000000'/%3E%3Cstop offset='0.498' stop-color='%23007900'/%3E%3Cstop offset='0.511' stop-color='%23000000'/%3E%3Cstop offset='0.511' stop-color='%23005f00'/%3E%3Cstop offset='0.532' stop-color='%23000000'/%3E%3Cstop offset='0.532' stop-color='%23001900'/%3E%3Cstop offset='0.541' stop-color='%23000000'/%3E%3Cstop offset='0.541' stop-color='%23008c00'/%3E%3Cstop offset='0.56' stop-color='%23000000'/%3E%3Cstop offset='0.56' stop-color='%23004b00'/%3E%3Cstop offset='0.581' stop-color='%23000000'/%3E%3Cstop offset='0.581' stop-color='%23004400'/%3E%3Cstop offset='0.6' stop-color='%23000000'/%3E%3Cstop offset='0.6' stop-color='%23005f00'/%3E%3Cstop offset='0.618' stop-color='%23000000'/%3E%3Cstop offset='0.618' stop-color='%23002e00'/%3E%3Cstop offset='0.656' stop-color='%23000000'/%3E%3Cstop offset='0.656' stop-color='%23006b00'/%3E%3Cstop offset='0.679' stop-color='%23000000'/%3E%3Cstop offset='0.679' stop-color='%2300a600'/%3E%3Cstop offset='0.689' stop-color='%23000000'/%3E%3Cstop offset='0.689' stop-color='%23008e00'/%3E%3Cstop offset='0.720' stop-color='%23000000'/%3E%3Cstop offset='0.720' stop-color='%23008700'/%3E%3Cstop offset='0.734' stop-color='%23000000'/%3E%3Cstop offset='0.734' stop-color='%23004e00'/%3E%3Cstop offset='0.748' stop-color='%23000000'/%3E%3Cstop offset='0.748' stop-color='%23004200'/%3E%3Cstop offset='0.764' stop-color='%23000000'/%3E%3Cstop offset='0.764' stop-color='%23009700'/%3E%3Cstop offset='0.788' stop-color='%23000000'/%3E%3Cstop offset='0.788' stop-color='%23005200'/%3E%3Cstop offset='0.808' stop-color='%23000000'/%3E%3Cstop offset='0.808' stop-color='%23005f00'/%3E%3Cstop offset='0.831' stop-color='%23000000'/%3E%3Cstop offset='0.831' stop-color='%23004100'/%3E%3Cstop offset='0.856' stop-color='%23000000'/%3E%3Cstop offset='0.856' stop-color='%23002100'/%3E%3Cstop offset='0.872' stop-color='%23000000'/%3E%3Cstop offset='0.872' stop-color='%23001900'/%3E%3Cstop offset='0.894' stop-color='%23000000'/%3E%3Cstop offset='0.894' stop-color='%23007d00'/%3E%3Cstop offset='0.914' stop-color='%23000000'/%3E%3Cstop offset='0.914' stop-color='%23007700'/%3E%3Cstop offset='0.942' stop-color='%23000000'/%3E%3Cstop offset='0.942' stop-color='%23008100'/%3E%3Cstop offset='0.957' stop-color='%23000000'/%3E%3Cstop offset='0.957' stop-color='%23009d00'/%3E%3Cstop offset='0.973' stop-color='%23000000'/%3E%3Cstop offset='0.973' stop-color='%23009d00'/%3E%3Cstop offset='1' stop-color='%23000000'/%3E%3Cstop offset='1' stop-color='%23007400'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect fill='url(%23a)' x='0' y='0' width='100%25' height='100%25'/%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: "Madimi One", sans-serif;
+    font-size: 50px;
+    text-shadow: #0abb04 1px 1px 20px, #0abb04 1px 1px 20px ;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 150px);
+    grid-template-rows: repeat(3, 150px);
+    gap: 4px;
+    justify-content: center;
+    text-align: center;
+}
+
+.cell {
+    color: #0abb04;
+    border: solid 5px #0abb04;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 64px;
+    cursor: pointer;
+    font-family: sans-serif;
+    border-radius: 20px;
+    background-color: black;
+}
+
+footer {
+    background-color: #000000;
+    color: aliceblue;
+    background-size: cover;
+    background-position:bottom;
+    margin-top: 3.4%;
+    text-align: center;
+}
